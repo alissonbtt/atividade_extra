@@ -1,5 +1,10 @@
 var cronogramaSaida = [
     {
+        dia_semana: 'domingo',
+        gatos: 0,
+        cachorros: 0,
+    },
+    {
         dia_semana: 'segunda',
         gatos: 1,
         cachorros: 1,

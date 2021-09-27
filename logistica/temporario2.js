@@ -57,5 +57,6 @@ function zerarAnimaisAbrigo(cronograma, estoqueAnimais){
 
 let entregaAnimais = zerarAnimaisAbrigo(cronogramaSaida, totalAnimaisMes );
 
-// console.log(entregaAnimais)
+console.log(entregaAnimais)
 export { entregaAnimais }
+
