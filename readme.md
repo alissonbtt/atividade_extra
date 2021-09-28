@@ -1,0 +1,1 @@
+# Executar arquivo core.js com comando: node core.js
